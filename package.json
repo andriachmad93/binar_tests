@@ -1,0 +1,26 @@
+{
+  "name": "binar_tests",
+  "version": "1.0.0",
+  "description": "1.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriachmad93/binar_tests.git"
+  },
+  "author": "andri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andriachmad93/binar_tests/issues"
+  },
+  "homepage": "https://github.com/andriachmad93/binar_tests#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.13.6",
+    "nodemon": "^1.12.5"
+  }
+}
